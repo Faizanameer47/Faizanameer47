@@ -13,18 +13,7 @@
 💻 I am constantly seeking out new technologies and learning about them.\
 🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
 🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
-###
 
-<h2 align="center">My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&theme=bear" width=750  alt="stats graph"/>
-
-</div>
-
-###
 
 <h2 align="center">Techs I Use</h2>
 
@@ -48,16 +37,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-###
-
-<h2 align="center">Find Me</h2>
-
-###
-
-<div align="center">
-  <a href="https://discord.com/users/#" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
   
-  <a href="https://stackoverflow.com/users/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
-</div>
 
-###
